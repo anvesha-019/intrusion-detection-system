@@ -27,7 +27,3 @@ The system captures network packets using Scapy and tracks the number of packets
 ```bash
 pip install scapy
 python ids.py
-
-## Output
-<img width="1164" height="857" alt="Screenshot 2026-04-26 105936" src="https://github.com/user-attachments/assets/02408cc7-b70e-4e8e-80b7-ebba6848bb79" />
-<img width="934" height="381" alt="Screenshot 2026-04-26 105916" src="https://github.com/user-attachments/assets/3ae6c9fd-2e41-490d-8b78-03044b9f9d1a" />
